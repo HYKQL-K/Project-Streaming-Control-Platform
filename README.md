@@ -1,5 +1,3 @@
-
-
 <hr/>
 Project-Streaming-Control-Platform为企业级分布式系统设计的高性能流量控制与治理平台，基于 SpringCloud Alibaba 微服务架构实现，融合服务网关、分布式事务、异步通信、限流熔断等技术，保障系统在高并发场景下的稳定性、安全性与高可用性。
 ## 项目亮点
@@ -15,7 +13,7 @@ Project-Streaming-Control-Platform 包括认证、流程、项目管理、用户
 
 并且同时 Project-Streaming-Control-Platform 也是一套企业工作流的开发框架，您可以根据自身需求，快速定制出适合自己公司的企业工作流系统。
 
-###代码结构
+### 代码结构
 
 ```
 com.laigeoffer.Project-Streaming-Control-Platform     
@@ -41,7 +39,7 @@ com.laigeoffer.Project-Streaming-Control-Platform
 ├── Project-Streaming-Control-Platform-monitor             						  // 监控中心 [6888]                 
 ```
 
-##环境搭建
+### 环境搭建
 
 ### 开发工具
 
